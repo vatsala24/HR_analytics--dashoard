@@ -1,0 +1,87 @@
+Insight 1: Department-wise Attrition
+Priority area for investigation
+Finding:
+
+The Sales department has the highest attrition rate at 20.63%, followed by Human Resources at 19.05%.
+
+Research & Development has the lowest rate at 13.84%.
+
+Business interpretation:
+
+Sales employees may be experiencing challenges related to targets, incentives, workload or career progression. These possibilities require further investigation.
+
+Recommendation:
+
+Management should review sales targets, incentive structures, workload distribution and career progression opportunities.
+
+Insight 2: Age-wise Attrition
+Finding:
+
+Employees under 30 have the highest attrition rate at 27.91%.
+
+Business interpretation:
+
+Younger employees may have different expectations regarding career growth, compensation, work environment and professional development.
+
+Recommendation:
+
+Investigate early-career development programmes, mentoring, onboarding and promotion opportunities.
+
+Insight 3: Income Band vs Attrition
+Finding:
+Income Band	Attrition Rate
+Low	21.76%
+Medium	11.14%
+High	8.90%
+
+Business interpretation:
+
+The lower-income category has considerably higher attrition than the other categories.
+
+Recommendation:
+
+Review salary competitiveness, compensation structures, benefits and early-career salary progression.
+
+Insight 4: Overtime vs Attrition
+Strongest observed difference
+Finding:
+- Overtime employees: 30.53% attrition.
+- Non-overtime employees: 10.44% attrition.
+The difference is approximately 20.09 percentage points.
+
+Business interpretation:
+
+Employees working overtime have substantially higher attrition in this dataset.
+
+Recommendation:
+
+Investigate workload distribution, overtime frequency, staffing requirements, compensation and work-life balance.
+
+Insight 5: Job Satisfaction vs Attrition
+Finding:
+- Low satisfaction: 19.68%.
+- Medium satisfaction: 16.52%.
+- High satisfaction: 11.33%.
+Business interpretation:
+
+Attrition is higher among employees reporting lower job satisfaction.
+
+Recommendation:
+
+Conduct employee engagement surveys and investigate management support, recognition, workplace environment and career development.
+
+Insight 6: Tenure Group vs Attrition
+Important retention opportunity
+Finding:
+
+Employees with 0–2 years of tenure have the highest attrition rate at 29.82%.
+
+Employees with 11+ years of tenure have the lowest rate at 8.13%.
+
+Business interpretation:
+
+The first two years appear to be an important employee retention period.
+
+Recommendation:
+
+Introduce structured onboarding, mentorship, regular performance discussions and early-career development programmes.
